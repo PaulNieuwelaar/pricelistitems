@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Source.Plugins", "Source.Plugins\Source.Plugins.csproj", "{155443C7-7F0D-448F-B427-7D48F0F6F2E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_libs", "_libs", "{87FC8ADA-D287-4042-8BF6-A7A94282F3F4}"
+	ProjectSection(SolutionItems) = preProject
+		_libs\Microsoft.Crm.Sdk.Proxy.dll = _libs\Microsoft.Crm.Sdk.Proxy.dll
+		_libs\Microsoft.Xrm.Sdk.dll = _libs\Microsoft.Xrm.Sdk.dll
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
