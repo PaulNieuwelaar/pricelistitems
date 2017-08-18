@@ -1,5 +1,5 @@
 # Dynamics CRM 2015 Auto Create Price List Items
-[![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/pricelistitems/raw/master/AutoCreatePriceListItems_2_0_0_0_managed.zip)
+[![download](https://user-images.githubusercontent.com/14048382/27844360-c7ea9670-6174-11e7-8658-80d356c1ba8f.png)](https://github.com/PaulNieuwelaar/pricelistitems/releases/download/v2.0/AutoCreatePriceListItems_2_0_0_0_managed.zip)
 
 Every time a product is created in Dynamics CRM 2015, this plugin will automatically add the product to all active price lists in the system. Also works with previous versions of CRM, but you'll need to get the old DLL's and register the plugin manually.
 
