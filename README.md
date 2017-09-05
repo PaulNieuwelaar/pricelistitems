@@ -11,3 +11,8 @@ Note that this only creates price list items for the default unit defined on the
 
 Read the full blog post:
 http://www.magnetismsolutions.com/blog/paulnieuwelaar/2012/10/29/auto_create_price_list_item_for_dynamics_crm_2011_products
+
+Created by [Paul Nieuwelaar](http://paulnieuwelaar.wordpress.com) - [@paulnz1](https://twitter.com/paulnz1)  
+Sponsored by [Magnetism Solutions - Dynamics CRM Specialists](http://www.magnetismsolutions.com)
+
+[![](https://user-images.githubusercontent.com/14048382/30045114-3805d840-9256-11e7-9bdb-323760fb43ea.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WDZ9MWLLWBWFE)
